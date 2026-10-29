@@ -1,0 +1,3 @@
+# JitPack builds on Linux: only the Android and JVM artifacts are produced (iOS targets are skipped).
+jdk:
+  - openjdk17
